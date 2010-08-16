@@ -1,0 +1,9 @@
+To build:
+make
+
+To play:
+./theGame
+
+Requires:
+libncurses-dev
+libncursesw5-dev
